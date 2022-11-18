@@ -1,0 +1,24 @@
+{
+  "name": "fruit-dodge-game",
+  "version": "1.0.0",
+  "description": "A game for my Critical Computation Class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjgomsa/fruit-dodge-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjgomsa/fruit-dodge-game/issues"
+  },
+  "homepage": "https://github.com/mjgomsa/fruit-dodge-game#readme",
+  "dependencies": {
+    "p5.collide2d": "^0.7.3",
+    "p5.party": "^0.12.0",
+    "prettier": "^2.7.1"
+  }
+}
